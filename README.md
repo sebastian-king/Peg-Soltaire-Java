@@ -3,7 +3,7 @@
 An implementation of a peg solitaire game in Java
 
 ### To compile:
-javac -d ./ *.java
+`javac -d ./ *.java`
 
 ### To run:
-java PegSolitaireJava.Main
+`java PegSolitaireJava.Main`
